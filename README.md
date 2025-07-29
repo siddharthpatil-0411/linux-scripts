@@ -1,4 +1,4 @@
-# 🐧 Linux & DevOps Daily Scripts
+# 🐧 Linux & DevOps Daily Scriptssss
 
 This repository is a collection of small, practical Linux and DevOps scripts — added daily — to build my hands-on skills and showcase growth as a Cloud & DevOps Engineer.
 
